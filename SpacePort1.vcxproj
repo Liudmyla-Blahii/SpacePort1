@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{DB393A66-3127-4B9E-A365-4A0B0ABC38E1}</ProjectGuid>
+    <ProjectGuid>{CC02FF77-F520-41F6-B20D-5274C3AB932F}</ProjectGuid>
     <RootNamespace>SpacePort1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
