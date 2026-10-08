@@ -4,7 +4,7 @@ using namespace std;
 
 void printTitle()
 {
-    cout << "=== КОСМОПОРТ GALACTIC2 ===" << endl;
+    cout << "=== КОСМОПОРТ GALACTIC3 ===" << endl;
 }
 
 void printStatus()
