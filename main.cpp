@@ -14,7 +14,10 @@ void printStatus()
 
 void printCrew()
 {
-    // TODO Owner
+    cout << "=== ЕКІПАЖ КОСМОПОРТУ ===" << endl;
+    cout << "Капітан: Олександр" << endl;
+    cout << "Пілот: Марія" << endl;
+    cout << "Механік: Андрій" << endl;
 }
 
 int main()
