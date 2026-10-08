@@ -4,12 +4,12 @@ using namespace std;
 
 void printTitle()
 {
-    cout << "=== КОСМОПОРТ ===" << endl;
+    cout << "=== КОСМОПОРТ GALACTIC ===" << endl;
 }
 
 void printStatus()
 {
-    // TODO Collaborator
+	cout << "Статус: готовий до польотів" << endl;
 }
 
 void printCrew()
